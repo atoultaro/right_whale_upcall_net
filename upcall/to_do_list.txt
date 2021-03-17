@@ -1,0 +1,17 @@
+1. clean the code. Remove unnecessary functions.
+
+2. Backup experimental results, carefully by modifying the original script
+
+3. re-run full_process without detection with 0.05 confidence
+
+4. re-plot figures
+
+
+
+
+
+
+
+5. add requirement.txt for module installation
+
+6. compatible with pep8 standard
